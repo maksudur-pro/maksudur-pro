@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently working on **Vuejs**
+- 🌱 I’m currently working on **TypeScript**
 - I am a Full Stack Developer doing all things creative to make the web a more unique and awesome place.
 - I enjoy bringing a static design or idea to life and learning new technologies.
 
