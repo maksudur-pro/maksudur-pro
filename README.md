@@ -11,7 +11,7 @@
 - I am a Full Stack Developer doing all things creative to make the web a more unique and awesome place.
 - I enjoy bringing a static design or idea to life and learning new technologies.
 
-- 📫 How to reach me **maksudurjoy7@gmail.com**
+- 📫 How to reach me **hello@maksudur.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
